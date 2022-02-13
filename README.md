@@ -1,4 +1,5 @@
-# CIAO Prolog on Windows 10
+# [DEPRECATED] CIAO Prolog on Windows 10
+## Esta guía se desarrolló en el año 2017. Recomendamos seguir las instrucciones oficiales: http://ciao-lang.org/install.html
 Instalacion de CIAO Prolog en maquinas Windows con SO 8 o superior (no se ha probado para sistemas con W7). <br>
 <b> Autores: Nicusor Cosmin Toader (https://github.com/CosminTN) y Jesus Perez Melero (https://github.com/JLumos) </b>
 # Instrucciones
